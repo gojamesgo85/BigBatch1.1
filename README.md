@@ -10,7 +10,16 @@ Change the desired number of cocktails to change the quantity math. Or, batch ba
 
 https://user-images.githubusercontent.com/95845784/210185891-337c7374-edbb-4474-aba1-7370c5a4f732.mp4
 
+ 
+Export .csv files of all of your information to your team for easy batching.
 
-Export .csv files of all of your information to your team for easy batching. 
+
 https://user-images.githubusercontent.com/95845784/210185895-d2e57956-e3a2-44fa-8a9c-e960db458851.mp4
+
+
+
+
+
+
+
 
